@@ -1,0 +1,1 @@
+/Users/kbravo/Documents/personal/2022_advent-of-code/target/debug/calorie-counting: /Users/kbravo/Documents/personal/2022_advent-of-code/01-calorie-counting/src/example.input /Users/kbravo/Documents/personal/2022_advent-of-code/01-calorie-counting/src/main.rs /Users/kbravo/Documents/personal/2022_advent-of-code/01-calorie-counting/src/my.input
